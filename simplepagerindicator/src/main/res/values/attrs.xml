@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleIndicator">
+
+        <attr name="indicatorSize" format="dimension" />
+
+        <attr name="indicatorMargin" format="dimension" />
+
+        <attr name="changeDuration" format="integer" />
+
+        <attr name="defaultColor" format="color" />
+        <attr name="focusColor" format="color" />
+        <attr name="colorFill" format="boolean" />
+
+    </declare-styleable>
+</resources>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jungjaehun.simplepagerindicator.SimpleIndicatorView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="8dp"
+    android:layout_height="8dp"
+    android:src="@drawable/shape_indicator_circle">
+</jungjaehun.simplepagerindicator.SimpleIndicatorView>
